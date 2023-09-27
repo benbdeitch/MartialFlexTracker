@@ -1,0 +1,2297 @@
+{
+    "advanced_players_guide": {
+        "Bashing Finish": {
+            "name": "Bashing Finish",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Shield Bash",
+                    "Shield Master",
+                    "Two Weapon Fighting"
+                ],
+                "BAB": "+11"
+            }
+        },
+        "Bloody Assault": {
+            "name": "Bloody Assault",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Bodyguard": {
+            "name": "Bodyguard",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Reflexes"
+                ]
+            }
+        },
+        "Bull Rush Strike": {
+            "name": "Bull Rush Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Bull Rush",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+9"
+            }
+        },
+        "Charge Through": {
+            "name": "Charge Through",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Overrun",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Cockatrice Strike": {
+            "name": "Cockatrice Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike",
+                    "Gorgon'S Fist",
+                    "Medusa'S Wrath"
+                ],
+                "BAB": "+16"
+            }
+        },
+        "Combat Patrol": {
+            "name": "Combat Patrol",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Reflexes",
+                    "Mobility"
+                ],
+                "BAB": "+5"
+            }
+        },
+        "Covering Defense": {
+            "name": "Covering Defense",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Focus"
+                ],
+                "BAB": "+6"
+            }
+        },
+        "Crippling Critical": {
+            "name": "Crippling Critical",
+            "Prerequisites": {
+                "Feats": [
+                    "Critical Focus"
+                ],
+                "BAB": "+13"
+            }
+        },
+        "Crossbow Mastery": {
+            "name": "Crossbow Mastery",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot",
+                    "Rapid Reload",
+                    "Rapid Shot"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Dastardly Finish": {
+            "name": "Dastardly Finish",
+            "Prerequisites": {
+                "Feats": [],
+                "Sneak Attack": "+5d6"
+            }
+        },
+        "Dazing Assault": {
+            "name": "Dazing Assault",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Disarming Strike": {
+            "name": "Disarming Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Disarm"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+9"
+            }
+        },
+        "Disrupting Shot": {
+            "name": "Disrupting Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot"
+                ],
+                "Stats": {
+                    "dex": "13"
+                },
+                "Class": {
+                    "fighter": "6",
+                    "ogstring": "fighter level 6th"
+                }
+            }
+        },
+        "Dreadful Carnage": {
+            "name": "Dreadful Carnage",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack",
+                    "Furious Focus"
+                ],
+                "Stats": {
+                    "str": "15"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Eldritch Claws": {
+            "name": "Eldritch Claws",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "str": "15"
+                },
+                "Misc": "natural weapons",
+                "BAB": "+6"
+            }
+        },
+        "Elemental Fist": {
+            "name": "Elemental Fist",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "wis": "13"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Elven Accuracy": {
+            "name": "Elven Accuracy",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Elf"
+            }
+        },
+        "Enforcer": {
+            "name": "Enforcer",
+            "Prerequisites": {
+                "Feats": [],
+                "Intimidate 1": ""
+            }
+        },
+        "Focused Shot": {
+            "name": "Focused Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot",
+                    "Precise Shot"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Following Step": {
+            "name": "Following Step",
+            "Prerequisites": {
+                "Feats": [
+                    "Step Up"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Furious Focus": {
+            "name": "Furious Focus",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Gang Up": {
+            "name": "Gang Up",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Greater Blind-Fight": {
+            "name": "Greater Blind-Fight",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Blind Fight"
+                ],
+                "Perception 15": ""
+            }
+        },
+        "Greater Dirty Trick": {
+            "name": "Greater Dirty Trick",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Dirty Trick"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Greater Drag": {
+            "name": "Greater Drag",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Drag",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Greater Reposition": {
+            "name": "Greater Reposition",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Reposition"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Greater Shield Specialization": {
+            "name": "Greater Shield Specialization",
+            "Prerequisites": {
+                "Feats": [
+                    "Greater Shield Focus",
+                    "Shield Focus"
+                ],
+                "Proficiency": "selected shield",
+                "Misc": "shield specialization with selected shield",
+                "Class": {
+                    "fighter": "12",
+                    "ogstring": "fighter level 12th"
+                }
+            }
+        },
+        "Greater Steal": {
+            "name": "Greater Steal",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Steal"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Improved Blind-Fight": {
+            "name": "Improved Blind-Fight",
+            "Prerequisites": {
+                "Feats": [
+                    "Blind Fight"
+                ],
+                "Perception 10": ""
+            }
+        },
+        "Improved Dirty Trick": {
+            "name": "Improved Dirty Trick",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Improved Drag": {
+            "name": "Improved Drag",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Improved Ki Throw": {
+            "name": "Improved Ki Throw",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Bull Rush",
+                    "Ki Throw"
+                ]
+            }
+        },
+        "Improved Reposition": {
+            "name": "Improved Reposition",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Improved Second Chance": {
+            "name": "Improved Second Chance",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Second Chance"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Improved Sidestep": {
+            "name": "Improved Sidestep",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility",
+                    "Sidestep"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Improved Steal": {
+            "name": "Improved Steal",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "In Harm's Way": {
+            "name": "In Harm's Way",
+            "Prerequisites": {
+                "Feats": [
+                    "Bodyguard"
+                ]
+            }
+        },
+        "Ki Throw": {
+            "name": "Ki Throw",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Trip",
+                    "Improved Unarmed Strike"
+                ]
+            }
+        },
+        "Low Profile": {
+            "name": "Low Profile",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "dex": "13"
+                },
+                "Size": "small size or smaller"
+            }
+        },
+        "Missile Shield": {
+            "name": "Missile Shield",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Focus"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Mounted Shield": {
+            "name": "Mounted Shield",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat",
+                    "Shield Focus"
+                ]
+            }
+        },
+        "Mounted Skirmisher": {
+            "name": "Mounted Skirmisher",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat",
+                    "Trick Riding"
+                ],
+                "Ride": ""
+            }
+        },
+        "Parting Shot": {
+            "name": "Parting Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility",
+                    "Point Blank Shot",
+                    "Shot On The Run"
+                ],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Perfect Strike": {
+            "name": "Perfect Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "wis": "13"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Point Blank Master": {
+            "name": "Point Blank Master",
+            "Prerequisites": {
+                "Feats": [],
+                "Misc": "weapon specialization with selected ranged weapon"
+            }
+        },
+        "Punishing Kick": {
+            "name": "Punishing Kick",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "wis": "13"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Pushing Assault": {
+            "name": "Pushing Assault",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "15"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Ray Shield": {
+            "name": "Ray Shield",
+            "Prerequisites": {
+                "Feats": [
+                    "Missile Shield",
+                    "Spellbreaker"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Rending Claws": {
+            "name": "Rending Claws",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "str": "13"
+                },
+                "Misc": "two claw natural weapon attacks",
+                "BAB": "+6"
+            }
+        },
+        "Repositioning Strike": {
+            "name": "Repositioning Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Trip"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+9"
+            }
+        },
+        "Saving Shield": {
+            "name": "Saving Shield",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Proficiency"
+                ]
+            }
+        },
+        "Second Chance": {
+            "name": "Second Chance",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Shadow Strike": {
+            "name": "Shadow Strike",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1"
+            }
+        },
+        "Shield of Swings": {
+            "name": "Shield of Swings",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Shield Specialization": {
+            "name": "Shield Specialization",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Focus"
+                ],
+                "Proficiency": "selected shield",
+                "Class": {
+                    "fighter": "4",
+                    "ogstring": "fighter level 4th"
+                }
+            }
+        },
+        "Sidestep": {
+            "name": "Sidestep",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Smash": {
+            "name": "Smash",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Race": "Orc"
+            }
+        },
+        "Stabbing Shot": {
+            "name": "Stabbing Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Rapid Shot"
+                ],
+                "Race": "Elf"
+            }
+        },
+        "Step Up and Strike": {
+            "name": "Step Up and Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Following Step",
+                    "Step Up"
+                ],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Stunning Assault": {
+            "name": "Stunning Assault",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+16"
+            }
+        },
+        "Sundering Strike": {
+            "name": "Sundering Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Sunder",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+9"
+            }
+        },
+        "Swift Aid": {
+            "name": "Swift Aid",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Team Up": {
+            "name": "Team Up",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Gang Up"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Teleport Tactician": {
+            "name": "Teleport Tactician",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Reflexes",
+                    "Disruptive",
+                    "Spellbreaker"
+                ]
+            }
+        },
+        "Touch of Serenity": {
+            "name": "Touch of Serenity",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "wis": "18"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Trick Riding": {
+            "name": "Trick Riding",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat"
+                ],
+                "Ride 9": ""
+            }
+        },
+        "Tripping Strike": {
+            "name": "Tripping Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Trip"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+9"
+            }
+        },
+        "Underfoot": {
+            "name": "Underfoot",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility"
+                ],
+                "Size": "small size or smaller"
+            }
+        },
+        "Under and Over": {
+            "name": "Under and Over",
+            "Prerequisites": {
+                "Feats": [
+                    "Agile Maneuvers"
+                ],
+                "Size": "small size or smaller"
+            }
+        }
+    },
+    "advanced_race_guide": {
+        "Blazing Aura": {
+            "name": "Blazing Aura",
+            "Prerequisites": {
+                "Feats": [
+                    "Inner Flame"
+                ],
+                "Race": "Ifrit",
+                "Class": {
+                    "character": "13",
+                    "ogstring": "character level 13th"
+                }
+            }
+        },
+        "Blistering Feint": {
+            "name": "Blistering Feint",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Feint"
+                ],
+                "Race": "Ifrit"
+            }
+        },
+        "Blood Beak": {
+            "name": "Blood Beak",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+5",
+                "Racial Trait": "natural weapon racial trait",
+                "Race": "Tengu"
+            }
+        },
+        "Blundering Defense": {
+            "name": "Blundering Defense",
+            "Prerequisites": {
+                "Feats": [
+                    "Cautious Fighter"
+                ],
+                "Race": "Halfling"
+            }
+        },
+        "Bullying Blow": {
+            "name": "Bullying Blow",
+            "Prerequisites": {
+                "Feats": [],
+                "Intimidate 1": "",
+                "Race": "Orc"
+            }
+        },
+        "Cautious Fighter": {
+            "name": "Cautious Fighter",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Halfling"
+            }
+        },
+        "Claw Pounce": {
+            "name": "Claw Pounce",
+            "Prerequisites": {
+                "Feats": [
+                    "Nimble Striker"
+                ],
+                "Stats": {
+                    "dex": "15"
+                },
+                "BAB": "+10",
+                "Race": "Catfolk",
+                "Racial Trait": "cat's claws racial trait or aspect of the beast (claws of the beast manifestation) "
+            }
+        },
+        "Cleave Through": {
+            "name": "Cleave Through",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+11",
+                "Race": "Dwarf"
+            }
+        },
+        "Cloven Helm": {
+            "name": "Cloven Helm",
+            "Prerequisites": {
+                "Feats": [
+                    "Dented Helm",
+                    "Hard Headed"
+                ],
+                "BAB": "+11",
+                "Race": "Dwarf"
+            }
+        },
+        "Critical Versatility": {
+            "name": "Critical Versatility",
+            "Prerequisites": {
+                "Feats": [],
+                "Class": {
+                    "fighter": "11",
+                    "ogstring": "fighter level 11th"
+                },
+                "Race": "Human"
+            }
+        },
+        "Demoralizing Lash": {
+            "name": "Demoralizing Lash",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Intimidate 1": "",
+                "Race": "Goblin"
+            }
+        },
+        "Dented Helm": {
+            "name": "Dented Helm",
+            "Prerequisites": {
+                "Feats": [
+                    "Hard Headed"
+                ],
+                "BAB": "+6",
+                "Race": "Dwarf"
+            }
+        },
+        "Desperate Swing": {
+            "name": "Desperate Swing",
+            "Prerequisites": {
+                "Feats": [
+                    "Cautious Fighter"
+                ],
+                "BAB": "+1",
+                "Race": "Halfling"
+            }
+        },
+        "Destroyer's Blessing": {
+            "name": "Destroyer's Blessing",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Orc",
+                "Class Features": "rage  "
+            }
+        },
+        "Elven Battle Training": {
+            "name": "Elven Battle Training",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Elf"
+            }
+        },
+        "Ferocious Tenacity": {
+            "name": "Ferocious Tenacity",
+            "Prerequisites": {
+                "Feats": [],
+                "Racial Trait": "ferocity racial trait",
+                "Race": "Orc",
+                "Class Features": "rage  "
+            }
+        },
+        "Fire Hand": {
+            "name": "Fire Hand",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Goblin"
+            }
+        },
+        "Giant Killer": {
+            "name": "Giant Killer",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack",
+                    "Strike Back"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "Race": "Dwarf",
+                "BAB": "+11"
+            }
+        },
+        "Gloom Strike": {
+            "name": "Gloom Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Blind Fight"
+                ],
+                "Race": "Fetchling"
+            }
+        },
+        "Gnome Weapon Focus": {
+            "name": "Gnome Weapon Focus",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Gnome",
+                "Proficiency": "all martial weapons "
+            }
+        },
+        "Goblin Cleaver": {
+            "name": "Goblin Cleaver",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "Race": "Dwarf"
+            }
+        },
+        "Goblin Gunslinger": {
+            "name": "Goblin Gunslinger",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Goblin"
+            }
+        },
+        "Great Hatred": {
+            "name": "Great Hatred",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Gnome",
+                "Racial Trait": "hatred racial trait "
+            }
+        },
+        "Grudge Fighter": {
+            "name": "Grudge Fighter",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Orc"
+            }
+        },
+        "Hard-Headed": {
+            "name": "Hard-Headed",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Dwarf"
+            }
+        },
+        "Improved Low Blow": {
+            "name": "Improved Low Blow",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+4",
+                "Race": "Halfling",
+                "Racial Trait": "low blow racial trait "
+            }
+        },
+        "Improved Surprise Follow-Through": {
+            "name": "Improved Surprise Follow-Through",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Great Cleave",
+                    "Power Attack",
+                    "Surprise Follow Through"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Inner Flame": {
+            "name": "Inner Flame",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Ifrit",
+                "Class": {
+                    "character": "7",
+                    "ogstring": "character level 7th"
+                }
+            }
+        },
+        "Kobold Ambusher": {
+            "name": "Kobold Ambusher",
+            "Prerequisites": {
+                "Feats": [],
+                "Stealth 4": "",
+                "Race": "Kobold"
+            }
+        },
+        "Kobold Sniper": {
+            "name": "Kobold Sniper",
+            "Prerequisites": {
+                "Feats": [],
+                "Stealth 1": "",
+                "Race": "Kobold"
+            }
+        },
+        "Lucky Strike": {
+            "name": "Lucky Strike",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+5",
+                "Racial Trait": "adaptive luck racial trait",
+                "Race": "Halfling"
+            }
+        },
+        "Martial Mastery": {
+            "name": "Martial Mastery",
+            "Prerequisites": {
+                "Feats": [
+                    "Martial Versatility"
+                ],
+                "Class": {
+                    "fighter": "16",
+                    "ogstring": "fighter level 16th"
+                },
+                "Race": "Human"
+            }
+        },
+        "Martial Versatility": {
+            "name": "Martial Versatility",
+            "Prerequisites": {
+                "Feats": [],
+                "Class": {
+                    "fighter": "4",
+                    "ogstring": "fighter level 4th"
+                },
+                "Race": "Human"
+            }
+        },
+        "Nimble Striker": {
+            "name": "Nimble Striker",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+1",
+                "Race": "Catfolk",
+                "Racial Trait": "sprinter racial trait "
+            }
+        },
+        "Orc Hewer": {
+            "name": "Orc Hewer",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "Race": "Dwarf"
+            }
+        },
+        "Orc Weapon Expertise": {
+            "name": "Orc Weapon Expertise",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Orc"
+            }
+        },
+        "Reverse-Feint": {
+            "name": "Reverse-Feint",
+            "Prerequisites": {
+                "Feats": [
+                    "Toughness"
+                ],
+                "BAB": "+1",
+                "Race": "Orc"
+            }
+        },
+        "Risky Striker": {
+            "name": "Risky Striker",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Halfling"
+            }
+        },
+        "Scorching Weapons": {
+            "name": "Scorching Weapons",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Ifrit"
+            }
+        },
+        "Sea Hunter": {
+            "name": "Sea Hunter",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Race": "Merfolk"
+            }
+        },
+        "Sharpclaw": {
+            "name": "Sharpclaw",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Ratfolk"
+            }
+        },
+        "Shatterspell": {
+            "name": "Shatterspell",
+            "Prerequisites": {
+                "Feats": [
+                    "Disruptive",
+                    "Spellbreaker"
+                ],
+                "Race": "Dwarf",
+                "Class": {
+                    "fighter": "10",
+                    "ogstring": "10th level fighter "
+                }
+            }
+        },
+        "Spit Venom": {
+            "name": "Spit Venom",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Nagaji"
+            }
+        },
+        "Surprise Follow-Through": {
+            "name": "Surprise Follow-Through",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Surprise Strike": {
+            "name": "Surprise Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Cautious Fighter",
+                    "Desperate Swing"
+                ],
+                "BAB": "+6",
+                "Race": "Halfling"
+            }
+        },
+        "Sympathetic Rage": {
+            "name": "Sympathetic Rage",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Orc",
+                "Misc": "nonlawful "
+            }
+        },
+        "Tail Terror": {
+            "name": "Tail Terror",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1",
+                "Race": "Kobold"
+            }
+        },
+        "Tangle Feet": {
+            "name": "Tangle Feet",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility",
+                    "Underfoot"
+                ],
+                "Race": "Goblin",
+                "Size": "small size or smaller "
+            }
+        },
+        "Taskmaster": {
+            "name": "Taskmaster",
+            "Prerequisites": {
+                "Feats": [
+                    "Demoralizing Lash"
+                ],
+                "Intimidate 5": "",
+                "Race": "Goblin"
+            }
+        },
+        "Terrorizing Display": {
+            "name": "Terrorizing Display",
+            "Prerequisites": {
+                "Feats": [
+                    "Dazzling Display",
+                    "Demoralizing Lash",
+                    "Taskmaster",
+                    "Weapon Focus"
+                ],
+                "Intimidate 10": "",
+                "Race": "Goblin",
+                "Proficiency": "selected weapon "
+            }
+        },
+        "Tree Hanger": {
+            "name": "Tree Hanger",
+            "Prerequisites": {
+                "Feats": [],
+                "Acrobatics 1": "",
+                "Race": "Vanara"
+            }
+        },
+        "Uncanny Defense": {
+            "name": "Uncanny Defense",
+            "Prerequisites": {
+                "Feats": [
+                    "Cautious Fighter"
+                ],
+                "BAB": "+3",
+                "Race": "Halfling"
+            }
+        },
+        "Vast Hatred": {
+            "name": "Vast Hatred",
+            "Prerequisites": {
+                "Feats": [],
+                "Race": "Gnome",
+                "Racial Trait": "hatred racial trait "
+            }
+        }
+    },
+    "bestiary": {},
+    "bestiary_2": {},
+    "bestiary_3": {},
+    "bestiary_4": {},
+    "core_rulebook": {
+        "Agile Maneuvers": {
+            "name": "Agile Maneuvers"
+        },
+        "Arcane Armor Mastery": {
+            "name": "Arcane Armor Mastery",
+            "Prerequisites": {
+                "Feats": [
+                    "Arcane Armor Training"
+                ],
+                "Proficiency": "medium armor ",
+                "Class": {
+                    "caster": "7",
+                    "ogstring": "caster level 7th"
+                }
+            }
+        },
+        "Arcane Armor Training": {
+            "name": "Arcane Armor Training",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "light armor ",
+                "Class": {
+                    "caster": "3",
+                    "ogstring": "caster level 3rd"
+                }
+            }
+        },
+        "Arcane Strike": {
+            "name": "Arcane Strike",
+            "Prerequisites": {
+                "Feats": [],
+                "Misc": "ability to cast arcane spells"
+            }
+        },
+        "Armor Proficiency, Heavy": {
+            "name": "Armor Proficiency, Heavy",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "medium armor "
+            }
+        },
+        "Armor Proficiency, Light": {
+            "name": "Armor Proficiency, Light"
+        },
+        "Armor Proficiency, Medium": {
+            "name": "Armor Proficiency, Medium",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "light armor "
+            }
+        },
+        "Blind-Fight": {
+            "name": "Blind-Fight"
+        },
+        "Catch Off-Guard": {
+            "name": "Catch Off-Guard"
+        },
+        "Channel Smite": {
+            "name": "Channel Smite",
+            "Prerequisites": {
+                "Feats": [],
+                "Class Features": "channel energy "
+            }
+        },
+        "Cleave": {
+            "name": "Cleave",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Combat Expertise": {
+            "name": "Combat Expertise",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Combat Reflexes": {
+            "name": "Combat Reflexes"
+        },
+        "Critical Focus": {
+            "name": "Critical Focus",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+9"
+            }
+        },
+        "Critical Mastery": {
+            "name": "Critical Mastery",
+            "Prerequisites": {
+                "Feats": [
+                    "Critical Focus"
+                ],
+                "Misc": "any two critical feats",
+                "Class": {
+                    "fighter": "14",
+                    "ogstring": "14th level fighter"
+                }
+            }
+        },
+        "Dazzling Display": {
+            "name": "Dazzling Display",
+            "Prerequisites": {
+                "Feats": [
+                    "Weapon Focus"
+                ],
+                "Proficiency": "the selected weapon"
+            }
+        },
+        "Deadly Aim": {
+            "name": "Deadly Aim",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Deadly Stroke": {
+            "name": "Deadly Stroke",
+            "Prerequisites": {
+                "Feats": [
+                    "Dazzling Display",
+                    "Greater Weapon Focus",
+                    "Shatter Defenses",
+                    "Weapon Focus"
+                ],
+                "Proficiency": "the selected weapon",
+                "BAB": "+11"
+            }
+        },
+        "Defensive Combat Training": {
+            "name": "Defensive Combat Training"
+        },
+        "Deflect Arrows": {
+            "name": "Deflect Arrows",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Disruptive": {
+            "name": "Disruptive",
+            "Prerequisites": {
+                "Feats": [],
+                "Class": {
+                    "fighter": "6",
+                    "ogstring": "6th level fighter"
+                }
+            }
+        },
+        "Dodge": {
+            "name": "Dodge",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Double Slice": {
+            "name": "Double Slice",
+            "Prerequisites": {
+                "Feats": [
+                    "Two Weapon Fighting"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Exotic Weapon Proficiency": {
+            "name": "Exotic Weapon Proficiency",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1"
+            }
+        },
+        "Far Shot": {
+            "name": "Far Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot"
+                ]
+            }
+        },
+        "Gorgon's Fist": {
+            "name": "Gorgon's Fist",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike",
+                    "Scorpion Style"
+                ],
+                "BAB": "+6"
+            }
+        },
+        "Greater Bull Rush": {
+            "name": "Greater Bull Rush",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Bull Rush",
+                    "Power Attack"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "str": "13"
+                }
+            }
+        },
+        "Greater Disarm": {
+            "name": "Greater Disarm",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Disarm"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Greater Feint": {
+            "name": "Greater Feint",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Feint"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Greater Grapple": {
+            "name": "Greater Grapple",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Grapple",
+                    "Improved Unarmed Strike"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Greater Overrun": {
+            "name": "Greater Overrun",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Overrun",
+                    "Power Attack"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "str": "13"
+                }
+            }
+        },
+        "Greater Penetrating Strike": {
+            "name": "Greater Penetrating Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Penetrating Strike",
+                    "Weapon Focus"
+                ],
+                "Class": {
+                    "fighter": "16",
+                    "ogstring": "16th level fighter"
+                }
+            }
+        },
+        "Greater Shield Focus": {
+            "name": "Greater Shield Focus",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Focus",
+                    "Shield Proficiency"
+                ],
+                "BAB": "+1",
+                "Class": {
+                    "fighter": "8",
+                    "ogstring": "8th level fighter"
+                }
+            }
+        },
+        "Greater Sunder": {
+            "name": "Greater Sunder",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Sunder",
+                    "Power Attack"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "str": "13"
+                }
+            }
+        },
+        "Greater Trip": {
+            "name": "Greater Trip",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Improved Trip"
+                ],
+                "BAB": "+6",
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Greater Two-Weapon Fighting": {
+            "name": "Greater Two-Weapon Fighting",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Two Weapon Fighting",
+                    "Two Weapon Fighting"
+                ],
+                "Stats": {
+                    "dex": "19"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Greater Vital Strike": {
+            "name": "Greater Vital Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Vital Strike",
+                    "Vital Strike"
+                ],
+                "BAB": "+16"
+            }
+        },
+        "Greater Weapon Focus": {
+            "name": "Greater Weapon Focus",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "selected weapon",
+                "Misc": "weapon focus with selected weapon",
+                "BAB": "+1",
+                "Class": {
+                    "fighter": "8",
+                    "ogstring": "8th level fighter"
+                }
+            }
+        },
+        "Greater Weapon Specialization": {
+            "name": "Greater Weapon Specialization",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "selected weapon",
+                "Misc": "weapon specialization with selected weapon",
+                "Class": {
+                    "fighter": "12",
+                    "ogstring": "12th level fighter"
+                }
+            }
+        },
+        "Great Cleave": {
+            "name": "Great Cleave",
+            "Prerequisites": {
+                "Feats": [
+                    "Cleave",
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+4"
+            }
+        },
+        "Improved Bull Rush": {
+            "name": "Improved Bull Rush",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Improved Critical": {
+            "name": "Improved Critical",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "weapon",
+                "BAB": "+8"
+            }
+        },
+        "Improved Disarm": {
+            "name": "Improved Disarm",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Improved Feint": {
+            "name": "Improved Feint",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Improved Grapple": {
+            "name": "Improved Grapple",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Improved Initiative": {
+            "name": "Improved Initiative"
+        },
+        "Improved Overrun": {
+            "name": "Improved Overrun",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Improved Precise Shot": {
+            "name": "Improved Precise Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot",
+                    "Precise Shot"
+                ],
+                "Stats": {
+                    "dex": "19"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Improved Shield Bash": {
+            "name": "Improved Shield Bash",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Proficiency"
+                ]
+            }
+        },
+        "Improved Sunder": {
+            "name": "Improved Sunder",
+            "Prerequisites": {
+                "Feats": [
+                    "Power Attack"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Improved Trip": {
+            "name": "Improved Trip",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise"
+                ],
+                "Stats": {
+                    "int": "13"
+                }
+            }
+        },
+        "Improved Two-Weapon Fighting": {
+            "name": "Improved Two-Weapon Fighting",
+            "Prerequisites": {
+                "Feats": [
+                    "Two Weapon Fighting"
+                ],
+                "Stats": {
+                    "dex": "17"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Improved Unarmed Strike": {
+            "name": "Improved Unarmed Strike"
+        },
+        "Improved Vital Strike": {
+            "name": "Improved Vital Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Vital Strike"
+                ],
+                "BAB": "+11"
+            }
+        },
+        "Improvised Weapon Mastery": {
+            "name": "Improvised Weapon Mastery",
+            "Prerequisites": {
+                "Feats": [],
+                "Misc": "catch off guard or throw anything",
+                "BAB": "+8"
+            }
+        },
+        "Intimidating Prowess": {
+            "name": "Intimidating Prowess"
+        },
+        "Lightning Stance": {
+            "name": "Lightning Stance",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Wind Stance"
+                ],
+                "Stats": {
+                    "dex": "17"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Lunge": {
+            "name": "Lunge",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+6"
+            }
+        },
+        "Manyshot": {
+            "name": "Manyshot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot",
+                    "Rapid Shot"
+                ],
+                "Stats": {
+                    "dex": "17"
+                },
+                "BAB": "+6"
+            }
+        },
+        "Martial Weapon Proficiency": {
+            "name": "Martial Weapon Proficiency"
+        },
+        "Medusa's Wrath": {
+            "name": "Medusa's Wrath",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike",
+                    "Gorgon'S Fist",
+                    "Scorpion Style"
+                ],
+                "BAB": "+11"
+            }
+        },
+        "Mobility": {
+            "name": "Mobility",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Mounted Archery": {
+            "name": "Mounted Archery",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat"
+                ],
+                "Ride 1": ""
+            }
+        },
+        "Mounted Combat": {
+            "name": "Mounted Combat",
+            "Prerequisites": {
+                "Feats": [],
+                "Ride 1": ""
+            }
+        },
+        "Penetrating Strike": {
+            "name": "Penetrating Strike",
+            "Prerequisites": {
+                "Feats": [
+                    "Weapon Focus"
+                ],
+                "BAB": "+1",
+                "Class": {
+                    "fighter": "12",
+                    "ogstring": "12th level fighter"
+                },
+                "Proficiency": "weapon"
+            }
+        },
+        "Pinpoint Targeting": {
+            "name": "Pinpoint Targeting",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Precise Shot",
+                    "Point Blank Shot",
+                    "Precise Shot"
+                ],
+                "Stats": {
+                    "dex": "19"
+                },
+                "BAB": "+16"
+            }
+        },
+        "Point-Blank Shot": {
+            "name": "Point-Blank Shot"
+        },
+        "Power Attack": {
+            "name": "Power Attack",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "str": "13"
+                },
+                "BAB": "+1"
+            }
+        },
+        "Precise Shot": {
+            "name": "Precise Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot"
+                ]
+            }
+        },
+        "Quick Draw": {
+            "name": "Quick Draw",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1"
+            }
+        },
+        "Rapid Reload": {
+            "name": "Rapid Reload",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "firearm "
+            }
+        },
+        "Rapid Shot": {
+            "name": "Rapid Shot",
+            "Prerequisites": {
+                "Feats": [
+                    "Point Blank Shot"
+                ],
+                "Stats": {
+                    "dex": "13"
+                }
+            }
+        },
+        "Ride-By Attack": {
+            "name": "Ride-By Attack",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat"
+                ],
+                "Ride 1": ""
+            }
+        },
+        "Scorpion Style": {
+            "name": "Scorpion Style",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ]
+            }
+        },
+        "Shatter Defenses": {
+            "name": "Shatter Defenses",
+            "Prerequisites": {
+                "Feats": [
+                    "Weapon Focus",
+                    "Dazzling Display"
+                ],
+                "BAB": "+6",
+                "Proficiency": "weapon"
+            }
+        },
+        "Shield Focus": {
+            "name": "Shield Focus",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Proficiency"
+                ],
+                "BAB": "+1"
+            }
+        },
+        "Shield Master": {
+            "name": "Shield Master",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Shield Bash",
+                    "Shield Proficiency",
+                    "Shield Slam",
+                    "Two Weapon Fighting"
+                ],
+                "BAB": "+11"
+            }
+        },
+        "Shield Proficiency": {
+            "name": "Shield Proficiency"
+        },
+        "Shield Slam": {
+            "name": "Shield Slam",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Shield Bash",
+                    "Shield Proficiency",
+                    "Two Weapon Fighting"
+                ],
+                "BAB": "+6"
+            }
+        },
+        "Shot on the Run": {
+            "name": "Shot on the Run",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility",
+                    "Point Blank Shot"
+                ],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+4"
+            }
+        },
+        "Simple Weapon Proficiency": {
+            "name": "Simple Weapon Proficiency"
+        },
+        "Snatch Arrows": {
+            "name": "Snatch Arrows",
+            "Prerequisites": {
+                "Feats": [
+                    "Deflect Arrows",
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Spellbreaker": {
+            "name": "Spellbreaker",
+            "Prerequisites": {
+                "Feats": [
+                    "Disruptive"
+                ],
+                "Class": {
+                    "fighter": "10",
+                    "ogstring": "10th level fighter"
+                }
+            }
+        },
+        "Spirited Charge": {
+            "name": "Spirited Charge",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat",
+                    "Ride By Attack"
+                ],
+                "Ride 1": ""
+            }
+        },
+        "Spring Attack": {
+            "name": "Spring Attack",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge",
+                    "Mobility"
+                ],
+                "Stats": {
+                    "dex": "13"
+                },
+                "BAB": "+4"
+            }
+        },
+        "Stand Still": {
+            "name": "Stand Still",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Reflexes"
+                ]
+            }
+        },
+        "Step Up": {
+            "name": "Step Up",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+1"
+            }
+        },
+        "Strike Back": {
+            "name": "Strike Back",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+11"
+            }
+        },
+        "Stunning Fist": {
+            "name": "Stunning Fist",
+            "Prerequisites": {
+                "Feats": [
+                    "Improved Unarmed Strike"
+                ],
+                "Stats": {
+                    "wis": "13"
+                },
+                "BAB": "+8"
+            }
+        },
+        "Throw Anything": {
+            "name": "Throw Anything"
+        },
+        "Tower Shield Proficiency": {
+            "name": "Tower Shield Proficiency",
+            "Prerequisites": {
+                "Feats": [
+                    "Shield Proficiency"
+                ]
+            }
+        },
+        "Trample": {
+            "name": "Trample",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat"
+                ],
+                "Ride 1": ""
+            }
+        },
+        "Two-Weapon Defense": {
+            "name": "Two-Weapon Defense",
+            "Prerequisites": {
+                "Feats": [
+                    "Two Weapon Fighting"
+                ],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Two-Weapon Fighting": {
+            "name": "Two-Weapon Fighting",
+            "Prerequisites": {
+                "Feats": [],
+                "Stats": {
+                    "dex": "15"
+                }
+            }
+        },
+        "Two-Weapon Rend": {
+            "name": "Two-Weapon Rend",
+            "Prerequisites": {
+                "Feats": [
+                    "Double Slice",
+                    "Improved Two Weapon Fighting",
+                    "Two Weapon Fighting"
+                ],
+                "Stats": {
+                    "dex": "17"
+                },
+                "BAB": "+11"
+            }
+        },
+        "Unseat": {
+            "name": "Unseat",
+            "Prerequisites": {
+                "Feats": [
+                    "Mounted Combat",
+                    "Power Attack",
+                    "Improved Bull Rush"
+                ],
+                "Stats": {
+                    "str": "13"
+                },
+                "Ride 1": "",
+                "BAB": "+1"
+            }
+        },
+        "Vital Strike": {
+            "name": "Vital Strike",
+            "Prerequisites": {
+                "Feats": [],
+                "BAB": "+6"
+            }
+        },
+        "Weapon Finesse": {
+            "name": "Weapon Finesse"
+        },
+        "Weapon Focus": {
+            "name": "Weapon Focus",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "selected weapon",
+                "BAB": "+1"
+            }
+        },
+        "Weapon Specialization": {
+            "name": "Weapon Specialization",
+            "Prerequisites": {
+                "Feats": [],
+                "Proficiency": "selected weapon",
+                "Misc": "weapon focus with selected weapon",
+                "Class": {
+                    "fighter": "4",
+                    "ogstring": "fighter level 4th"
+                }
+            }
+        },
+        "Whirlwind Attack": {
+            "name": "Whirlwind Attack",
+            "Prerequisites": {
+                "Feats": [
+                    "Combat Expertise",
+                    "Dodge",
+                    "Mobility",
+                    "Spring Attack"
+                ],
+                "Stats": {
+                    "int": "13"
+                },
+                "BAB": "+4"
+            }
+        },
+        "Wind Stance": {
+            "name": "Wind Stance",
+            "Prerequisites": {
+                "Feats": [
+                    "Dodge"
+                ],
+                "Stats": {
+                    "dex": "15"
+                },
+                "BAB": "+6"
+            }
+        }
+    },
+    "game_mastery_guide": {},
+    "monster_codex": {},
+    "mythic_adventures": {},
+    "npc_codex": {},
+    "spheres_of_might": {
+        "Adopt Animal Ally": {
+            "name": "Adopt Animal Ally",
+            "Prerequisites": {
+                "Feats": [],
+                "Misc": "an animal or vermin companion"
+            }
+        }
+    },
+    "technology_guide": {},
+    "ultimate_campaign": {}
+}

@@ -1,0 +1,36 @@
+This is getting frustrating, so let's define what character data we're accepting. 
+
+>Array of Feats? 
+char = {
+    "stats" = {
+            "Str": 10,
+            "Dex": 10,
+            "Con": 10,
+            "Int": 10,
+            "Wis": 10,
+            "Cha": 10
+    }
+    "race": "dwarf",
+    "bab": number
+    "feats": [array of feats names, soon to be set],
+    "martialflex number": how many feats away are you allowed? 
+    "caster": {
+        type:"arcane|divine",
+        level: num
+    }
+    class: {
+        class1: levels
+    }
+    pertinent_class_features: [array],
+    alignment: [enum(CNL, ENG)]}
+
+feats need: 
+
+:Name
+:description/effects, 
+:Prerequisites (let's split this up into categories for ease)
+:Counts As: Feats always count as their name, but also can count as another. This will allow for the ccategory of 'critical feats'.  (Alternatively, could allow for string parsing of the requirements to get an 'or', or similarly reserved combo of letters for this. )
+:the chain to get to them (if more than one),
+:Special/Drawback/etc.
+:Source (For allowing them there)
+
